@@ -1,0 +1,20 @@
+{
+    "usernames": {
+        "Romain": {
+            "name": "Romain",
+            "password": "RomainMDP",
+            "email": "utilisateur@gmail.com",
+            "failed_login_attemps": 0, 
+            "logged_in": false,
+            "role": "utilisateur"
+        },
+        "root": {
+            "name": "root",
+            "password": "rootMDP",
+            "email": "admin@gmail.com",
+            "failed_login_attemps": 0, 
+            "logged_in": false,
+            "role": "administrateur"
+        }
+    }
+}
