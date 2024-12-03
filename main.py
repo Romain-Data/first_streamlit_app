@@ -1,3 +1,6 @@
+!pip install streamlit-option-menu
+!pip install streamlit-authenticator
+
 import streamlit as st
 from streamlit_authenticator import Authenticate
 from streamlit_option_menu import option_menu
